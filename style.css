@@ -205,20 +205,23 @@ top: 1383px;
 background: #33836E;
 border-radius: 20px;
 display: flex;
+align-items: center;
 }
 .kont {
 align-items: flex-start;
 gap: 10px;
-display: block;
+padding-right: 116px;
 }
 .work {
 font-size: 24px;
 color: #FFFFFF;
+font-weight: 600;
 }
 .phon {
 font-size: 42px;
 color: #FFFFFF;
 display: block;
+font-weight: 700;
 }
 .peopl {
 align-items: flex-start;
@@ -231,5 +234,72 @@ display: flex;
 align-items: center;
 text-align: center;
 color: #FFFFFF;
+font-weight: 600;
+}
+.kyb {
+gap: 20px;
+display: block;
+
+}
+.opa{
+    display: flex;
+    padding-bottom: 20px;
+    gap: 20px;
+}
+.apo{
+    display: flex;
+    gap: 20px;
+}
+.container_kyb1 {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 560px;
+box-sizing: border-box;
+}
+.container_kyb2 {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 560px;
+box-sizing: border-box;
+}.container_kyb3 {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 560px;
+box-sizing: border-box;
+}.container_kyb4 {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 560px;
+box-sizing: border-box;
 }
 
+.lalala {
+    display: flex;
+}
+.lala{
+    display: flex;
+}
+.li{
+display: flex;
+gap: 40px;
+width: 469px;
+}
+.al {
+
+}
+.la {
+font-weight: 700;
+font-size: 28px;
+color: #33836E;
+}
+.pom{
+    display: flex;
+}
