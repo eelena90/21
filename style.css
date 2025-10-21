@@ -283,6 +283,8 @@ box-sizing: border-box;
 
 .lalala {
     display: flex;
+    gap: 40px;
+    padding-top: 30px;
 }
 .lala{
     display: flex;
@@ -290,16 +292,32 @@ box-sizing: border-box;
 .li{
 display: flex;
 gap: 40px;
-width: 469px;
+}
+.pomoq{
+    display: block;
 }
 .al {
-
+display: flex;
+flex-direction: column;
+justify-content: center;
+gap: 10px;
 }
 .la {
 font-weight: 700;
 font-size: 28px;
 color: #33836E;
+margin: 0;
 }
 .pom{
     display: flex;
+}
+.g{
+ display: flex;
+ flex-direction: column;   
+}
+.lak{
+font-weight: 400;
+font-size: 16px;
+color: #140A32;
+margin: 0;
 }
