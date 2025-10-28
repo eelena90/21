@@ -139,11 +139,6 @@ gap: 5px;
 .phonee{
     font-weight: bold;
 color: #33836E;
-border-bottom: 2px solid #33836E;
-font-weight: 700;
-font-size: 24px;
-line-height: 33px;
-
 }
 .infoo{
     display: grid;
@@ -182,7 +177,6 @@ line-height: 33px;
     flex-direction: row;
     align-items: flex-start;
     gap: 20px;
-    width: 1140px;
     height: 180px;
     top: 115px;
 }
@@ -203,8 +197,6 @@ line-height: 33px;
     color: black;
 }
 .wom{
-width: 1140px;
-height: 200px;
 left: 150px;
 top: 1383px;
 background: #33836E;
@@ -260,7 +252,6 @@ align-items: center;
 padding: 30px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
-width: 560px;
 box-sizing: border-box;
 }
 .container_kyb2 {
@@ -268,21 +259,18 @@ align-items: center;
 padding: 30px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
-width: 560px;
 box-sizing: border-box;
 }.container_kyb3 {
 align-items: center;
 padding: 30px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
-width: 560px;
 box-sizing: border-box;
 }.container_kyb4 {
 align-items: center;
 padding: 30px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
-width: 560px;
 box-sizing: border-box;
 }
 
@@ -326,11 +314,7 @@ font-size: 16px;
 color: #140A32;
 margin: 0;
 }
-<<<<<<< HEAD
-
-
 .wow {
-width: 1140px;
 height: 200px;
 top: 385px;
 background: #33836E;
@@ -442,7 +426,7 @@ gap: 20px;
 }
 .kvadr {
 display: flex;
-gap: 20px;
+gap: 15px;
 padding-bottom: 20px;
 }
 .con_kyb1 {
@@ -450,7 +434,7 @@ display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
@@ -460,7 +444,7 @@ display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
@@ -470,66 +454,72 @@ display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
+gap: 15px;
 }
 .con_kyb4 {
 display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
+gap: 15px;
 }
 .con_kyb5 {
 display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
+gap: 15px;
 }
 .con_kyb6 {
 display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
+gap: 15px;
 }
 .con_kyb7 {
 display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
+gap: 15px;
 }
 .con_kyb8 {
 display: flex;
 flex-direction: column;
 align-items: flex-start;
 padding: 20px;
-width: 560px;
+width: 549px;
 height: 287px;
 border: 1px solid rgba(47, 43, 67, 0.15);
 border-radius: 20px;
+gap: 15px;
 }
 .at {
 font-weight: 600;
 font-size: 16px;
 color: #140A32;
-
+display: flex;
 border-bottom: 2px solid #33836E;
 }
 .ta {
@@ -553,5 +543,60 @@ display: flex;
 gap: 20px;
 padding-bottom: 20px;
 }
-=======
->>>>>>> 16170300e8acd45df6ddf87d6df6ab7744916d5f
+
+.za{
+font-weight: 700;
+font-size: 32px;
+color: #140A32;
+display: flex;
+margin: 0;
+padding-left: 53px;
+padding-top: 51px;
+}
+.kakashka2{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10px;
+width: 207px;
+height: 56px;
+background: #33836E;
+border-radius: 10px;
+}
+.knop2{
+display: flex;
+flex-direction: column;
+justify-content: center;
+gap: 3px;
+width: 201px;
+height: 56px;
+background: #FFFFFF;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 10px;
+padding-left: 16px;
+}
+.empti2{
+font-weight: 400;
+font-size: 12px;
+color: rgba(47, 43, 67, 0.4);
+margin: 0;
+}
+.lel{
+height: 200px;
+background: rgba(47, 43, 67, 0.04);
+border-radius: 20px;
+display: flex;
+}
+.eshka2{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+}
+.erl{
+    display: block;
+    padding-right: 41px;
+    padding-top: 57px;
+}
